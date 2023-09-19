@@ -7,4 +7,12 @@ A Database Management System (DBMS) is a type of software that allows users to d
   <img alt="Relationship between the user, DBMS, and the Database" src="https://github.com/monehi-t/SQL_Notes/blob/main/database.png">
 </picture>
 
-tETSU
+With databases you can:
+  - Store, retrieve and update data;
+  - Get metadata;
+  - Access a database remotely;
+  - Restrict access to data;
+  - Make concurrent updates;
+  - Recover to some point in time;
+  - Check the rules for data consistency automatically.
+
