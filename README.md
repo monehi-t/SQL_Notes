@@ -41,4 +41,3 @@ SQL (Structured Query Language) is a domain-specific programming language design
 SQL is the standard data manipulation language used by data-driven companies around the world. 
 
 
-
