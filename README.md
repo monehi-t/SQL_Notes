@@ -30,10 +30,15 @@ The Relational Data Model (RDM) is an abstract mathematical model on the basis o
 
 
 
-**Relationships**
+### Relationships
   * one-to-one relationship (1-1)
   * one-to-many relationship (1-M)
   * many-to-many (M-M) relationship
 _______________________________________________________________________________________________
+
+# SQL
+SQL (Structured Query Language) is a domain-specific programming language designed to handle data in tables.
+SQL is the standard data manipulation language used by data-driven companies around the world. 
+
 
 
