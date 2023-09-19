@@ -1,4 +1,4 @@
-# SQL_Notes
+# DBMS Intro
 A Database Management System (DBMS) is a type of software that allows users to define, create, and control data.
 
 <picture>
@@ -6,6 +6,7 @@ A Database Management System (DBMS) is a type of software that allows users to d
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/monehi-t/SQL_Notes/blob/main/database.png">
   <img alt="Relationship between the user, DBMS, and the Database" src="https://github.com/monehi-t/SQL_Notes/blob/main/database.png">
 </picture>
+
 
 With databases you can:
   - Store, retrieve and update data;
@@ -15,4 +16,24 @@ With databases you can:
   - Make concurrent updates;
   - Recover to some point in time;
   - Check the rules for data consistency automatically.
+_______________________________________________________________________________________________
+
+# Relational Data Model
+The Relational Data Model (RDM) is an abstract mathematical model on the basis of which modern databases are designed.
+
+  - **Relation** = a two-dimensional table that represents some entity or relationship.
+  - **Entity** = an abstraction of some object, for example, a student, a car, or a building.
+  - **Relationship** = defines how entities are interconnected.
+  - **Primary key(PK)** = a field that is used to uniquely identify each record in the table, guaranteeing that no two records in are identical.
+  - **Referential integrity** = occurs when we have two connected relations.
+  - **Foreign key(FK)** = an attribute of a relation that points to the primary key of another relation.
+
+
+
+**Relationships**
+  * one-to-one relationship (1-1)
+  * one-to-many relationship (1-M)
+  * many-to-many (M-M) relationship
+_______________________________________________________________________________________________
+
 
