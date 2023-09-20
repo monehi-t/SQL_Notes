@@ -40,4 +40,11 @@ ________________________________________________________________________________
 SQL (Structured Query Language) is a domain-specific programming language designed to handle data in tables.
 SQL is the standard data manipulation language used by data-driven companies around the world. 
 
+### Basic SQL Data Types
+- **INTEGER**: a numeric data type that represents some range of mathematical integers
+- **DECIMAL**: a numeric data type that represents integers with decimal point.
+- **VARCHAR**: a string of symbols of varying lengths not longer
+- **BOOLEAN**: type represents boolean logic values: either TRUE or FALSE.
+- **FLOAT**:  an approximate numeric data type used for floating-point numbers
+
 
