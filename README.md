@@ -47,6 +47,11 @@ SQL is the standard data manipulation language used by data-driven companies aro
 - **FLOAT**:  an approximate numeric data type used for floating-point numbers
 - **DECIMAL(precision, scale)**: a numeric data type that represents integers with decimal point.
     - _Scale_: is the count of digits to the right of the decimal point.
-    - _Precision_: is the total count of digits in the number 
+    - _Precision_: is the total count of digits in the number
+      <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/monehi-t/SQL_Notes/blob/main/DecimalDataType.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/monehi-t/SQL_Notes/blob/main/DecimalDataType.png">
+    <img alt="Relationship between the user, DBMS, and the Database" src="https://github.com/monehi-t/SQL_Notes/blob/main/DecimalDataType.png">
+    </picture>
 
 
