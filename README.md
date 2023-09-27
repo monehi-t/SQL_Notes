@@ -55,3 +55,22 @@ SQL is the standard data manipulation language used by data-driven companies aro
     </picture>
 
 
+## Arithmetic Expressions
+The basic set of arithmetic operators supported in SQL is the following:
+- _-_ unary minus that changes the sign of a value;
+- _*_ multiplication;
+- _/_ division;
+- _%_ modulo that returns the remainder of integer division;
+- _+_ addition;
+- _-_ subtraction.
+
+## Basic Create and Delete Statement
+To create a database and table we use the following:
+ * CREATE DATABASE _databaseName_;
+ * CREATE TABLE _tableName_;
+
+To delete a database and table we use the following:
+ * DROP DATABASE _databaseName_;
+ * DROP TABLE _tableName_;
+
+
