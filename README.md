@@ -73,4 +73,7 @@ To delete a database and table we use the following:
  * DROP DATABASE _databaseName_;
  * DROP TABLE _tableName_;
 
+## SELECT FROM statement
+The type of data extraction when you select a subset of table columns is called **projection**.
 
+Here's a general schema for such queries: 
