@@ -77,3 +77,8 @@ To delete a database and table we use the following:
 The type of data extraction when you select a subset of table columns is called **projection**.
 
 Here's a general schema for such queries: 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/monehi-t/SQL_Notes/blob/main/selct%20from%20statement.PNG">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/monehi-t/SQL_Notes/blob/main/selct%20from%20statement.PNG">
+ <img alt="Relationship between the user, DBMS, and the Database" src="https://github.com/monehi-t/SQL_Notes/blob/main/selct%20from%20statement.PNG">
+ </picture>
